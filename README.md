@@ -7,9 +7,9 @@
 
 ## Blue Team
 
-### Data Visualization
+### Data Visualization and Logging
 - Splunk
-- Kibana (As part of the ELK stack)
+- ELK Stack (Elasticsearch, Logstash, Kibana)
 
 
 ### Endpoint Monitoring
