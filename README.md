@@ -1,9 +1,14 @@
 # A comprehensive list of the tools that I use as part of my cybersecurity toolkit. 
 
+## OSINT
+- Spiderfoot
+
+
 ## Red Team
 
 ### Scanning Tools
 - Masscan
+- Cewl
 
 
 ### Web Application Analysis
@@ -52,3 +57,7 @@
 ### Malware Analysis
 - Mr. Majestic
 - Yara
+
+### Forensics
+- Volatility (Used for memory forensics)
+- Regshot (Registry Forensics)
