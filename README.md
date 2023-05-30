@@ -78,6 +78,8 @@
 - Regshot (Registry Forensics)
 - Autopsy
 - FTK Imager
+- binwalk
+- exiftool
 
 ## Incident Response
 - MISP (threat intelligence and sharing platform)
