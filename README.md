@@ -59,6 +59,7 @@
 ### Endpoint Monitoring
 - VMWare Carbon Black
 - Velociraptor
+  - Within velociraptor, Artifact collection and deployment is super powerful.
 - OSSEC
 - CrowdStrike Falcon
 
