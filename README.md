@@ -1,7 +1,7 @@
 # A comprehensive list of the tools that I use as part of my cybersecurity toolkit.
 
 ## OSINT
-- Spiderfoot
+- Spiderfoot OSINT
 - Shodan
 - Maltego
 - TheHarvester
